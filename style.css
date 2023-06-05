@@ -1,0 +1,53 @@
+/* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}*/
+.sessao1_em {
+  width: 400px;
+  height: 400px;
+  background-color: blueviolet;
+  border: solid;
+  font-family: Arial, "Helvetica", sans-serif;
+}
+.sessao1_em div {
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  background-color: rgb(235, 167, 118);
+  font-size: 1em;
+  margin: 3em;
+  color: rgb(56, 4, 105);
+}
+.sessao2_rem {
+  width: 400px;
+  height: 400px;
+  background-color: blueviolet;
+  border: solid;
+  font-family: Arial, "Helvetica", sans-serif;
+}
+.sessao2_rem div {
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  background-color: rgb(235, 167, 118);
+  font-size: 1em;
+  margin: 3em;
+  color: rgb(56, 4, 105);
+}
+.sessao3_porcentagem {
+  width: 400px;
+  height: 400px;
+  background-color: blueviolet;
+  border: solid;
+  font-family: Arial, "Helvetica", sans-serif;
+}
+.sessao3_porcentagem div {
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  background-color: rgb(235, 167, 118);
+  font-size: 1em;
+  margin: 3em;
+  color: rgb(56, 4, 105);
+}
